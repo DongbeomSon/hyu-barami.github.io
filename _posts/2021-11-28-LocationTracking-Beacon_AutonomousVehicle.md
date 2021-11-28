@@ -114,18 +114,15 @@ HOST에 들어오는 RSSI 값을 보면서 beacon들의 위치를 계속 바꾸�
 
 ### 조이스틱 컨트롤러
 #### 구동 모습
-<img src="/assets/img/post/2021-11-28-LocationTracking-Beacon_AutonomousVehicle/joystick.mp4" width="90%"> <br>
 <a href="https://youtu.be/yJEVJwnj7W8" target="_blank">조이스틱 컨트롤러 구동 모습 유튜브</a>
 
 ### 자율주행 자동차
 #### 주행 모습
-<img src="/assets/img/post/2021-11-28-LocationTracking-Beacon_AutonomousVehicle/vehicle.mp4" width="90%"> <br>
 <a href="https://youtu.be/aC3_Xr2P1Lc" target="_blank">자율주행 자동차 주행 모습 유튜브</a>
 
 원래 조이스틱 컨트롤러로부터 속력도 수신하여 속력을 조절할 수 있게 하려 했으나 RF통신 특성상 여러 개의 신호를 수신하려면 통신 속도가 길어져 자동차에 적합하지 않다 판단하여 방향 조절만 가능
 
 #### 장애물 회피
-<img src="/assets/img/post/2021-11-28-LocationTracking-Beacon_AutonomousVehicle/vehicle2.mp4" width="90%"> <br>
 <a href="https://youtu.be/NmiGZ6Cq1X4" target="_blank">자율주행 자동차 장애물 회피 유튜브</a>
 
 ### Beacon을 이용한 위치 추적
